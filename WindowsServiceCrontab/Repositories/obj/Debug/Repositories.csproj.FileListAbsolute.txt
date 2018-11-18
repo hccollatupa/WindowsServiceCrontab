@@ -1,0 +1,7 @@
+D:\github\WindowsServiceCrontab\Repositories\bin\Debug\Repositories.dll
+D:\github\WindowsServiceCrontab\Repositories\bin\Debug\Repositories.pdb
+D:\github\WindowsServiceCrontab\Repositories\bin\Debug\Entities.dll
+D:\github\WindowsServiceCrontab\Repositories\bin\Debug\Entities.pdb
+D:\github\WindowsServiceCrontab\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+D:\github\WindowsServiceCrontab\Repositories\obj\Debug\Repositories.dll
+D:\github\WindowsServiceCrontab\Repositories\obj\Debug\Repositories.pdb

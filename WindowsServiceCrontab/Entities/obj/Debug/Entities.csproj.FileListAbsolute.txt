@@ -1,0 +1,4 @@
+D:\github\WindowsServiceCrontab\Entities\bin\Debug\Entities.dll
+D:\github\WindowsServiceCrontab\Entities\bin\Debug\Entities.pdb
+D:\github\WindowsServiceCrontab\Entities\obj\Debug\Entities.dll
+D:\github\WindowsServiceCrontab\Entities\obj\Debug\Entities.pdb

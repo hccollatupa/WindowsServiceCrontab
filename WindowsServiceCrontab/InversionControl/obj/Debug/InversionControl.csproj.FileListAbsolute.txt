@@ -1,0 +1,11 @@
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\InversionControl.dll
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\InversionControl.pdb
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\Ninject.dll
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\Repositories.dll
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\Entities.dll
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\Repositories.pdb
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\Ninject.xml
+D:\github\WindowsServiceCrontab\InversionControl\bin\Debug\Entities.pdb
+D:\github\WindowsServiceCrontab\InversionControl\obj\Debug\InversionControl.csprojResolveAssemblyReference.cache
+D:\github\WindowsServiceCrontab\InversionControl\obj\Debug\InversionControl.dll
+D:\github\WindowsServiceCrontab\InversionControl\obj\Debug\InversionControl.pdb
